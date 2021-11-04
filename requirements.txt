@@ -10,3 +10,4 @@ scikit-learn==0.23.2
 tqdm==4.53.0
 numpy==1.19.5
 jupyter
+pyvis
